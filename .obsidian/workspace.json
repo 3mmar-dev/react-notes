@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "0a93eba960cc6eaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "c986a43339e9935a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c96141ae0f5274f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React Course/Section 1 => TypeScript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Section 1 => TypeScript"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bd11d52bbbf5d5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cff8ff336f935020",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b60d5c13b658e31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "79363eb6b0178e7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f20fdb5fc421523c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "00c588445b893b92",
+    "type": "split",
+    "children": [
+      {
+        "id": "04b33c766efca800",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "766a71076529884b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Typescript in React.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Typescript in React"
+            }
+          },
+          {
+            "id": "a0f2db8391973613",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Typescript in React.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Typescript in React"
+            }
+          },
+          {
+            "id": "8f24472b7a130cb5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9ee0da13342a7ad6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Typescript in React.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Typescript in React"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c96141ae0f5274f2",
+  "lastOpenFiles": [
+    "README.md",
+    "React Course/README.md",
+    "Typescript in React.md",
+    "React Course/Section 1 => TypeScript.md",
+    "React Course/Section 1 => TypeScript",
+    "React Course",
+    "Typescript in React/Untitled.md",
+    "Welcome.md",
+    "Typescript in React"
+  ]
+}
